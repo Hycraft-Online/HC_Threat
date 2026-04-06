@@ -1,0 +1,15 @@
+{
+  "Group": "com.hcthreat",
+  "Name": "HC_Threat",
+  "Version": "1.0.0",
+  "Description": "Persistent cumulative threat table for NPC targeting",
+  "Authors": [{"Name": "Server Admin"}],
+  "ServerVersion": "0.0.2",
+  "Dependencies": {
+    "Hytale:EntityModule": "*"
+  },
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.hcthreat.HC_ThreatPlugin",
+  "IncludesAssetPack": false
+}
